@@ -1,0 +1,40 @@
+*****LEUPROLIDE*****
+1) Approval for Leuprolide PF compounded trigger
+2) Approval for Leuprolide PF compounded weekly kit
+
+*****CETROTIDE*****
+Spring has NOT approved the new generic Ganirelix and we should only dispense Cetrotide for their pts.
+**the only time we can dispense the generic ganirelix is if the Rx explicitly says "generic ganirelix ok" --> they will do this for very specific pts
+
+*****ANCILLARY*****
+hCG triggers: ROA on SIG and ancillaries should always be SQ, regardless of prescribed SIG.
+
+*****MSC*****
+1) Testosterone gel - USE VASCO 12.5mg/gm #30 NDC C1234-5678-25 - adjust sig to "4 clicks" to match the dose of 12.5mg
+2) Sildenafil/Viagra: always PV for female patient
+
+*****PROGYNY*****
+1) Estradiol/Vivelle >16 d/s:
+ICD10: N97.9
+Indication: Controlled FET, Luteal support for controlled FET; grow endometrial lining and patient is to continue into pregnancy for pregnancy support
+
+2) Gonal/Menopur/STIMs for IUI:
+ICD10: N97.9
+Indication: Follicular growth if no response to oral meds like Clomid and Letrozole
+
+3) Gonal/Menopur/STIMs for Transfer:
+ICD10: N97.9
+Indication: Follicular growth during natural cycle and no response to Letrozole.
+
+4) Cetrotide post trigger:
+ICD10: N98.1
+Indication: Minimize OHSS symptoms following STIM cycle
+
+5) Approval to switch Gonal-f pen sizes on med management for first fill and refills
+
+*****TEMPORARY DURING DRUG SHORTAGE*****
+1) Cetrotide <---> Fyremadel MID CYCLE if OOS
+2) Novarel as STIM: Dose should be 5 units (25IU) SQ QD. Pts will mix with 10mL of diluent
+
+*****DIAZEPAM OOS*****
+If Diazepam 10mg is OOS, Ok to change to 5mg and update sig/qty/refills to reflect original order (approved by Allie, RN 8/24)
